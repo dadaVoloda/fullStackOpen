@@ -1,4 +1,4 @@
-# Full stack open - [link to the course](https://fullstackopen.com/en/)
+## Full stack open - [link to the course](https://fullstackopen.com/en/)
 
 ### Part 1 - Introduction to React
 
